@@ -1,0 +1,916 @@
+{
+  "lots": [
+    {
+      "lot": "17091",
+      "area_m2": 216,
+      "computed_area_m2": 72.33,
+      "closure_error_m": 3.5533,
+      "area_difference_m2": -143.67,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 8.55,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 9.44,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 10.94,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17092",
+      "area_m2": 158,
+      "computed_area_m2": 53.11,
+      "closure_error_m": 3.5967,
+      "area_difference_m2": -104.89,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 7.5,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 6.0,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 9.44,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17093",
+      "area_m2": 126,
+      "computed_area_m2": 45.83,
+      "closure_error_m": 3.0974,
+      "area_difference_m2": -80.17,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 6.0,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17094",
+      "area_m2": 126,
+      "computed_area_m2": 35.17,
+      "closure_error_m": 1.6677,
+      "area_difference_m2": -90.83,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 5.84,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 6.0,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17095",
+      "area_m2": 158,
+      "computed_area_m2": 72.33,
+      "closure_error_m": 3.5533,
+      "area_difference_m2": -85.67,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 8.55,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 9.44,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 10.94,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17096",
+      "area_m2": 158,
+      "computed_area_m2": 53.11,
+      "closure_error_m": 3.5967,
+      "area_difference_m2": -104.89,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 7.5,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 6.0,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 9.44,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17097",
+      "area_m2": 126,
+      "computed_area_m2": 45.83,
+      "closure_error_m": 3.0974,
+      "area_difference_m2": -80.17,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 6.0,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17098",
+      "area_m2": 126,
+      "computed_area_m2": 35.17,
+      "closure_error_m": 1.6677,
+      "area_difference_m2": -90.83,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 5.84,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 6.0,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17099",
+      "area_m2": 158,
+      "computed_area_m2": 72.33,
+      "closure_error_m": 3.5533,
+      "area_difference_m2": -85.67,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 8.55,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 9.44,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 10.94,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17100",
+      "area_m2": 126,
+      "computed_area_m2": 45.83,
+      "closure_error_m": 3.0974,
+      "area_difference_m2": -80.17,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 6.0,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17101",
+      "area_m2": 126,
+      "computed_area_m2": 35.17,
+      "closure_error_m": 1.6677,
+      "area_difference_m2": -90.83,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 5.84,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 6.0,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17102",
+      "area_m2": 158,
+      "computed_area_m2": 72.33,
+      "closure_error_m": 3.5533,
+      "area_difference_m2": -85.67,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 8.55,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 9.44,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 10.94,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17103",
+      "area_m2": 158,
+      "computed_area_m2": 53.11,
+      "closure_error_m": 3.5967,
+      "area_difference_m2": -104.89,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 7.5,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 6.0,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 9.44,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17104",
+      "area_m2": 126,
+      "computed_area_m2": 45.83,
+      "closure_error_m": 3.0974,
+      "area_difference_m2": -80.17,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 6.0,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17105",
+      "area_m2": 126,
+      "computed_area_m2": 35.17,
+      "closure_error_m": 1.6677,
+      "area_difference_m2": -90.83,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 5.84,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 6.0,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17106",
+      "area_m2": 126,
+      "computed_area_m2": 45.83,
+      "closure_error_m": 3.0974,
+      "area_difference_m2": -80.17,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 6.0,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17107",
+      "area_m2": 158,
+      "computed_area_m2": 72.33,
+      "closure_error_m": 3.5533,
+      "area_difference_m2": -85.67,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 8.55,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 9.44,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 10.94,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17108",
+      "area_m2": 126,
+      "computed_area_m2": 45.83,
+      "closure_error_m": 3.0974,
+      "area_difference_m2": -80.17,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 6.0,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17109",
+      "area_m2": 126,
+      "computed_area_m2": 35.17,
+      "closure_error_m": 1.6677,
+      "area_difference_m2": -90.83,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 5.84,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 6.0,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17110",
+      "area_m2": 158,
+      "computed_area_m2": 72.33,
+      "closure_error_m": 3.5533,
+      "area_difference_m2": -85.67,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 8.55,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 9.44,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 10.94,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17111",
+      "area_m2": 158,
+      "computed_area_m2": 53.11,
+      "closure_error_m": 3.5967,
+      "area_difference_m2": -104.89,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 7.5,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 6.0,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 9.44,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17112",
+      "area_m2": 126,
+      "computed_area_m2": 45.83,
+      "closure_error_m": 3.0974,
+      "area_difference_m2": -80.17,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 6.0,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17113",
+      "area_m2": 126,
+      "computed_area_m2": 35.17,
+      "closure_error_m": 1.6677,
+      "area_difference_m2": -90.83,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 5.84,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 5.84,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 6.0,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    },
+    {
+      "lot": "17114",
+      "area_m2": 203,
+      "computed_area_m2": 83.03,
+      "closure_error_m": 3.0783,
+      "area_difference_m2": -119.97,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 10.94,
+          "bearing": "200°59'20\"",
+          "deg": 200,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 9.44,
+          "bearing": "290°59'20\"",
+          "deg": 290,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 8.55,
+          "bearing": "20°59'20\"",
+          "deg": 20,
+          "min": 59,
+          "sec": 20
+        },
+        {
+          "length": 7.5,
+          "bearing": "110°59'20\"",
+          "deg": 110,
+          "min": 59,
+          "sec": 20
+        }
+      ]
+    }
+  ]
+}
