@@ -1,0 +1,65 @@
+{
+  "text": [
+    {
+      "text": "JONAH AVENUE",
+      "x": 100,
+      "y": 50,
+      "rotation": 0,
+      "font_size": 12
+    },
+    {
+      "text": "ENCORE BOULEVARD",
+      "x": 200,
+      "y": 100,
+      "rotation": 0,
+      "font_size": 12
+    },
+    {
+      "text": "CARDENO STREET",
+      "x": 300,
+      "y": 150,
+      "rotation": 0,
+      "font_size": 12
+    },
+    {
+      "text": "17091",
+      "x": 400,
+      "y": 200,
+      "rotation": 0,
+      "font_size": 10
+    },
+    {
+      "text": "216m²",
+      "x": 400,
+      "y": 220,
+      "rotation": 0,
+      "font_size": 10
+    }
+  ],
+  "lines": [
+    {
+      "x1": 100,
+      "y1": 100,
+      "x2": 200,
+      "y2": 100,
+      "thickness": 1,
+      "orientation_deg": 0
+    },
+    {
+      "x1": 200,
+      "y1": 100,
+      "x2": 200,
+      "y2": 200,
+      "thickness": 1,
+      "orientation_deg": 90
+    }
+  ],
+  "lots": [
+    {
+      "lot": "17091",
+      "area_label": "216m²",
+      "centroid_x": 400,
+      "centroid_y": 210
+    }
+  ]
+}

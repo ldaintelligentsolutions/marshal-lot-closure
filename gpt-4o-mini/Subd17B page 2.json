@@ -1,0 +1,13 @@
+{
+  "lots": [
+    {
+      "lot": "17091",
+      "area_m2": 216,
+      "computed_area_m2": 0.0,
+      "closure_error_m": Infinity,
+      "area_difference_m2": 0.0,
+      "confidence": "low",
+      "boundaries": []
+    }
+  ]
+}

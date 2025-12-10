@@ -1,0 +1,80 @@
+{
+  "lots": [
+    {
+      "lot": "17091",
+      "area_m2": 216,
+      "computed_area_m2": 20000.0,
+      "closure_error_m": 0.0,
+      "area_difference_m2": 19784.0,
+      "confidence": "medium",
+      "boundaries": [
+        {
+          "length": 100.0,
+          "bearing": "0°0'0\"",
+          "deg": 0,
+          "min": 0,
+          "sec": 0
+        },
+        {
+          "length": 200.0,
+          "bearing": "90°0'0\"",
+          "deg": 90,
+          "min": 0,
+          "sec": 0
+        },
+        {
+          "length": 100.0,
+          "bearing": "180°0'0\"",
+          "deg": 180,
+          "min": 0,
+          "sec": 0
+        },
+        {
+          "length": 200.0,
+          "bearing": "270°0'0\"",
+          "deg": 270,
+          "min": 0,
+          "sec": 0
+        }
+      ]
+    },
+    {
+      "lot": "17092",
+      "area_m2": 158,
+      "computed_area_m2": 20000.0,
+      "closure_error_m": 0.0,
+      "area_difference_m2": 19842.0,
+      "confidence": "low",
+      "boundaries": [
+        {
+          "length": 100.0,
+          "bearing": "0°0'0\"",
+          "deg": 0,
+          "min": 0,
+          "sec": 0
+        },
+        {
+          "length": 200.0,
+          "bearing": "90°0'0\"",
+          "deg": 90,
+          "min": 0,
+          "sec": 0
+        },
+        {
+          "length": 100.0,
+          "bearing": "180°0'0\"",
+          "deg": 180,
+          "min": 0,
+          "sec": 0
+        },
+        {
+          "length": 200.0,
+          "bearing": "270°0'0\"",
+          "deg": 270,
+          "min": 0,
+          "sec": 0
+        }
+      ]
+    }
+  ]
+}
